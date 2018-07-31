@@ -6,7 +6,7 @@ package com.in28minutes.maven;
  */
 public class App 
 {
-    public static void main( String[] args )
+    public static void main( String[] args );
 
 
 	public int calculateSomething() {
